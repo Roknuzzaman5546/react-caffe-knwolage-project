@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "Cover": "https://i.ibb.co/60QX8Zd/young-adult-enjoying-yoga-nature.jpg",
+        "Title": "Exploring the Mysteries of Quantum Physics",
+        "Author": "Jane Smith",
+        "Author_Image": "https://i.ibb.co/cTr60DP/pleased-young-brunette-caucasian-woman-points-side-isolated-green-background-with-copy-space.jpg",
+        "Posted_Date": "September 5, 2023",
+        "Reading_Time": 10,
+        "Hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+    },
+    {
+        "ID": 2,
+        "Cover": "https://i.ibb.co/nwLvJtH/full-shot-woman-with-bicycle-outdoors.jpg",
+        "Title": "The Art of Culinary Delights",
+        "Author": "John Doe",
+        "Author_Image": "https://i.ibb.co/C0gPWgt/front-view-young-male-red-shirt-black-wall-1.jpg",
+        "Posted_Date": "August 21, 2023",
+        "Reading_Time": 8,
+        "Hashtags": ["#CulinaryArt", "#Foodie", "#Cooking"]
+    },
+    {
+        "ID": 3,
+        "Cover": "https://i.ibb.co/LYrL5BZ/old-rusty-fishing-boat-slope-along-shore-lake.jpg",
+        "Title": "Traveling the World on a Budget",
+        "Author": "Emily Brown",
+        "Author_Image": "https://i.ibb.co/FXkvNVD/happy-teenager-with-fringe-pointing.jpg",
+        "Posted_Date": "July 12, 2023",
+        "Reading_Time": 15,
+        "Hashtags": ["#Travel", "#BudgetTravel", "#Adventure"]
+    },
+    {
+        "ID": 4,
+        "Cover": "https://i.ibb.co/GszL058/lone-tree.jpg",
+        "Title": "Mastering Productivity: Tips for Success",
+        "Author": "David Anderson",
+        "Author_Image": "https://i.ibb.co/mJsYqjP/front-view-young-male-red-shirt-black-wall.jpg",
+        "Posted_Date": "June 3, 2023",
+        "Reading_Time": 12,
+        "Hashtags": ["#Productivity", "#Success", "#TimeManagement"]
+    },
+    {
+        "ID": 5,
+        "Cover": "https://i.ibb.co/ZTnQR7y/painting-mountain-lake-with-mountain-background.jpg",
+        "Title": "Unraveling the Secrets of Ancient Civilizations",
+        "Author": "Sarah Johnson",
+        "Author_Image": "https://i.ibb.co/s3Ghw8b/8640361.jpg",
+        "Posted_Date": "May 17, 2023",
+        "Reading_Time": 20,
+        "Hashtags": ["#History", "#AncientCivilizations", "#Archaeology"]
+    }
+]
