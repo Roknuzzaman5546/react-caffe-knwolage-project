@@ -4,12 +4,19 @@ import Bloogs from './Componends/Blogs/Bloogs'
 import Bookmark from './Componends/Bookmark/Bookmark'
 import Header from './Componends/Headar/Header'
 
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 function App() {
 
   const [books, setBooks] = useState([]);
   const [readings, setReadings] = useState(0);
 
   const handlebookmark = (book) =>{
+    const sameName = books.find(boi => boi == book);
+    if(sameName == book){
+       return toast('data is here');
+    }
     const newbooks = [...books, book]
     setBooks(newbooks);
   }
@@ -30,7 +37,8 @@ function App() {
         handleReadingtime={handleReadingtime}
         ></Bloogs>
         <Bookmark books={books} readings={readings}></Bookmark>
-        </div>      
+        </div>     
+      <ToastContainer />
     </>
   )
 }
